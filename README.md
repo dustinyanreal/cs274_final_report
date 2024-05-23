@@ -39,9 +39,15 @@ Training of this project isn't necessary, but if you want to run the training.py
 Change
 #### -server_root: your root for LLM4REC.
 #### -local_root: location to save models.
-After changinging these parameters, you can run python training.py --dataset 'location of luxury dataset' --lambda_V 1   
+After changinging these parameters, you can run:
+```
+python training.py --dataset 'location of luxury dataset' --lambda_V 1   
+```
 
 Fine-tuning is after this step. This step requires a lot of parameter changing, if you ran the training step.
 This file uses embeddings created from the Training step, so if you have run the training step, it is necessary to change all of the embeddings.
 If you did not run the training step, you do not have to change anything and can run with my embeddings.
-You can run fine-tuning: python finetuning.py --dataset 'location of luxury dataset' --lambda_V 1
+You can run fine-tuning: 
+```
+python finetuning.py --dataset 'location of luxury dataset' --lambda_V 1
+```
