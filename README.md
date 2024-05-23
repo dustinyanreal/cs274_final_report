@@ -1,10 +1,10 @@
 # Overview
 
 This repository is the final report for CS274. In this repository, I have my:
-### -Report for my project
-### -Powerpoint for my project
-### -Dataset used for my project
-### -Code used for my project
+#### -Report for my project
+#### -Powerpoint for my project
+#### -Dataset used for my project
+#### -Code used for my project
 
 # Report
 
@@ -37,8 +37,8 @@ if __name__ == "__main__":
 
 Training of this project isn't necessary, but if you want to run the training.py file, you must change some locations in the training.py file.
 Change
--server_root: your root for LLM4REC.
--local_root: location to save models.
+#### -server_root: your root for LLM4REC.
+#### -local_root: location to save models.
 After changinging these parameters, you can run python training.py --dataset 'location of luxury dataset' --lambda_V 1   
 
 Fine-tuning is after this step. This step requires a lot of parameter changing, if you ran the training step.
