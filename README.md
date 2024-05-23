@@ -21,10 +21,14 @@ The current dataset in this repository is already pre-processed
 This code is sourced from: https://github.com/anord-wang/LLM4REC
 
 Navigate to the LLM4REC/src folder and install the required libraries. This requires a python version of Python 3.11.5
--pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 Since the Vision Models are not incorporated into the actual code, you don't have to install the Vision Model. If you want to test the Vision Model out:
--pip install ultralytics
+```
+pip install ultralytics
+```
 You can simply run vision.py to test the Vision Model. This would require adding a main into this file.
 Add
 ```
