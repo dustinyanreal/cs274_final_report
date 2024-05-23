@@ -1,4 +1,4 @@
-#Overview
+# Overview
 
 This repository is the final report for CS274. In this repository, I have my:
 -Report for my project
@@ -6,18 +6,18 @@ This repository is the final report for CS274. In this repository, I have my:
 -Dataset used for my project
 -Code used for my project
 
-#Report
+# Report
 
 This report is attached as a .pdf file.
 
-#Powerpoint
+# Powerpoint
 This powerpoint is attached as a .pptx file.
 
-#Dataset
+# Dataset
 This dataset is a subset of an original dataset. The original dataset can be found at: https://nijianmo.github.io/amazon/index.html
 The current dataset in this repository is already pre-processed
 
-#Code
+# Code
 This code is sourced from: https://github.com/anord-wang/LLM4REC
 
 Navigate to the LLM4REC/src folder and install the required libraries. This requires a python version of Python 3.11.5
