@@ -1,10 +1,10 @@
 # Overview
 
 This repository is the final report for CS274. In this repository, I have my:
--Report for my project
--Powerpoint for my project
--Dataset used for my project
--Code used for my project
+### -Report for my project
+### -Powerpoint for my project
+### -Dataset used for my project
+### -Code used for my project
 
 # Report
 
